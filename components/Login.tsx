@@ -99,7 +99,7 @@ export const Login: React.FC<LoginProps> = ({ onLogin, onUpdateUser }) => {
               <Landmark size={40} className="text-yellow-400" />
            </div>
            <div className="text-center">
-              <h1 className="text-white text-xl font-black tracking-tight">HÀNH CHÍNH SỐ</h1>
+              <h1 className="text-white text-xl font-black tracking-tight">CHÍNH QUYỀN SỐ</h1>
               <p className="text-blue-400 text-[10px] font-bold uppercase tracking-[0.3em] mt-1">UBND xã Đoan Hùng</p>
            </div>
         </div>
