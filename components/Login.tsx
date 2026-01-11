@@ -100,7 +100,7 @@ export const Login: React.FC<LoginProps> = ({ onLogin, onUpdateUser }) => {
            </div>
            <div className="text-center">
               <h1 className="text-white text-xl font-black tracking-tight">CHÍNH QUYỀN SỐ</h1>
-              <p className="text-blue-400 text-[10px] font-bold uppercase tracking-[0.3em] mt-1">UBND xã Đoan Hùng</p>
+              <p className="text-blue-400 text-[10px] font-bold uppercase tracking-[0.3em] mt-1"> ỦY BAN NHÂN DÂN XÃ ĐOAN HÙNG</p>
            </div>
         </div>
 
