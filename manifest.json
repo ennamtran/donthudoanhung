@@ -1,0 +1,21 @@
+{
+  "name": "Quản lý Đơn thư UBND xã Đoan Hùng",
+  "short_name": "Đơn thư Đoan Hùng",
+  "description": "Hệ thống quản lý đơn thư số cho chính quyền xã Đoan Hùng",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2830/2830305.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

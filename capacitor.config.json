@@ -1,0 +1,23 @@
+
+{
+  "appId": "vn.gov.ubnd.quanlydonthu",
+  "appName": "Quản lý Đơn thư UBND",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#2563eb",
+      "androidSplashResourceName": "splash",
+      "iosSplashResourceName": "Default",
+      "showSpinner": true
+    },
+    "StatusBar": {
+      "style": "DARK"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Hệ thống Quản lý Đơn thư xã Đoan Hùng",
+  "description": "Ứng dụng chuyên nghiệp để tiếp nhận, phân loại, theo dõi tiến độ và thống kê đơn thư dành cho chính quyền xã Đoan Hùng.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
